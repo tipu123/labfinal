@@ -7,8 +7,9 @@ public class Mainclass {
 		int wq = 11;
 		int x = 10;
 		x = x + 100;
+		x = x + 100;
 		x = x + 10;
-		x = x + 10;
+	int	zazo = 200; 
 		       double n1, n2;
 		        String operation;
 		        Scanner scannerObject = new Scanner(System.in);
