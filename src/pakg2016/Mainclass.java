@@ -9,7 +9,8 @@ public class Mainclass {
 		x = x + 100;
 		x = x + 100;
 		x = x + 10;
-	int	zazo = 200; 
+	int	zazo = 200;
+	int tipu= 007;
 		       double n1, n2;
 		        String operation;
 		        Scanner scannerObject = new Scanner(System.in);
