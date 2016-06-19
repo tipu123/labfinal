@@ -4,9 +4,9 @@ public class Mainclass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int aa = 11;
+		int wq = 11;
 		int x = 10;
-		x = x + 10;
+		x = x + 100;
 		x = x + 10;
 		x = x + 10;
 		       double n1, n2;
