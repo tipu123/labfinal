@@ -8,6 +8,7 @@ public class Mainclass {
 		int x = 10;
 		x = x + 10;
 		x = x + 10;
+		x = x + 10;
 		       double n1, n2;
 		        String operation;
 		        Scanner scannerObject = new Scanner(System.in);
