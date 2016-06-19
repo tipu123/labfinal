@@ -11,6 +11,9 @@ public class Mainclass {
 		x = x + 10;
 	int	zazo = 200;
 	int tipu= 007;
+	int khan=006;
+	int zee=001;
+	int shah=002;
 		       double n1, n2;
 		        String operation;
 		        Scanner scannerObject = new Scanner(System.in);
